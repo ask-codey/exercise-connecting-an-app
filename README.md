@@ -31,3 +31,7 @@ Run the program with **Ctrl+F5** to see the categories, and run the tests with *
 - Use a parameter for every value: `WHERE BookId = @BookId`. One test tries a SQL injection attack on `SearchByTitle`.
 - `Summary` is `NULL` in every book. Read nullable columns with `reader["Summary"] as string`, or check `IsDBNull` first.
 - Write one mapping method per DAO, such as `MapRowToBook`, and use it in every method.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
