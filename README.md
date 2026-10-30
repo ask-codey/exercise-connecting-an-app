@@ -1,6 +1,6 @@
-# Practice: Connecting an App
+# Exercise: Connecting an App
 
-Practice code for the lesson **Practice: Connecting an App** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Connecting an App** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 You'll write the Data Access Objects (DAOs) for three tables in the **BooksPlus** database, using ADO.NET: `SqlConnection`, `SqlCommand` and `SqlDataReader`.
 
